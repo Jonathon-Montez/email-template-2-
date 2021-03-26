@@ -1,0 +1,37 @@
+.mail{
+    color: black;
+}
+.my-list{
+    background-color: teal;
+    color: black;  
+}
+.btn{
+    background-color: black;
+}
+.my-col-1{
+    background-color: #474947;
+    
+}
+.my-col-2{
+    background-color: lightgray;
+}
+.d-flex{
+    margin-top: 15px;
+}
+.card{
+    margin-top: 30px;
+}
+.nav-link{
+
+    color: black;
+
+}
+.email-par{
+    font-size: 18;
+}
+.my-card-3{
+    color: blue;  
+}
+.my-btn-3{
+    background-color: blue;
+}
